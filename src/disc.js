@@ -37,7 +37,6 @@ class Disc {
         <br>
         <br>
         `
-
         return this.element
     }
 
@@ -66,4 +65,5 @@ class Disc {
             discService.deleteDisc(this.id)
         }
     }
+
 }
